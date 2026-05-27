@@ -19,4 +19,3 @@ MVC layered architecture: Controller → Service → Repository
 - Order processing
 - JWT Authentication
 - Role-based access control (CUSTOMER, VENDOR, ADMIN)
-- 
